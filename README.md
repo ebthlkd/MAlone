@@ -6,10 +6,10 @@ Support Android. Requires Google TTS<br>
 MAlone, the browser project by Microapps Team. Started on 2019-04-15. As the title sits, this is a browser. But why it is special? It's made using Sketchware. This is a challenge to build as many stuff in this app. So, stay tuned for any releases!
 
 ## Bug Reports
-Please send feedback via Github Issue or Telegram PM if you encounter any bugs/problems or have a feature request.
+Please send feedback via Github Issue or Telegram (<a href="https://t.me/MicroappsTeam/>@MicroappsTeam</a>) DM if you encounter any bugs/problems or have a feature request.
 
 ## Support
-Help support this project by ⭐️'ing it! <a href="http://paypal.me/mateam84">Donations</a> also appreciated!
+Help support this project by ⭐️'ing it! <a href="">Donations</a> also appreciated!
 Telegram: @MicroappsTeam
 
 ## License
